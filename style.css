@@ -53,7 +53,7 @@ html,body{
 }
 #nav button#orangebtn{
     border: none;
-    color: white;
+    color: black;
     background-color: orangered;
 }
 #main>h1#Headline{
